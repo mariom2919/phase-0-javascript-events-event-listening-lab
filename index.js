@@ -8,3 +8,5 @@ function addingEventListener() {
     
     input.addEventListener('click', clickAlert);
 }
+
+// added event listener
